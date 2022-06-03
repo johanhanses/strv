@@ -5,7 +5,9 @@ export default function App() {
   return (
     <>
       <header>
-        <h1>A Serverless function written in Typescript and React with Vite</h1>
+        <h1>
+          A Serverless function written in Typescript and React using Vite
+        </h1>
       </header>
       <main>
         <Form />
